@@ -59,14 +59,6 @@ curl -k --cookie "XSRF-TOKEN=eyJpdiI6..." http://target-ip:port/
 
 ---
 
-## 🖼️ Example Screenshot
-
-Replace the image below with a relevant screenshot (e.g., phpggc + output + curl):
-
-![demo](images/demo.png)
-
----
-
 ## 🔑 Requirements
 
 - Python 3.6+
